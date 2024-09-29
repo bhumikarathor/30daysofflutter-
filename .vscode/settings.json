@@ -1,3 +1,4 @@
 {
-    "emulator.androidColdBoot": true
+    "emulator.androidColdBoot": true,
+    "cmake.sourceDirectory": "C:/flutterdev/projects/classicon_vs_code/linux"
 }
